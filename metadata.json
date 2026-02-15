@@ -1,0 +1,13 @@
+{
+	"id": "EvenMoreJokerPacks",
+	"name": "Even More Joker Packs",
+	"display_name": "Even More Joker Packs",
+	"author": ["MP"],
+	"description": "Ever wanted MORE booster packs themed around certain pools? No? Too bad.",
+	"prefix": "emjp",
+	"main_file": "main.lua",
+	"priority": 10,
+	"badge_colour": "900090",
+	"badge_text_colour": "FFFFFF",
+	"version": "0.1.0m",
+}
